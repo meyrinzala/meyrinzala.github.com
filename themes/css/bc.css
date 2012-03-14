@@ -1,11 +1,19 @@
-img.inline {
-height:75px;
-float:left;
-margin-right:10px;
+img.inline 
+{
+	height:75px;
+	float:left;
+	margin-right:10px;
 }
 
-p.inline {
-float:left;
-margin-right:10px;
-vertical-align: middle
+p.inline 
+{
+	float:left;
+	margin-right:10px;
+	vertical-align: middle
+}
+
+p 
+{
+	padding: 2px;
+	color:white;
 }
